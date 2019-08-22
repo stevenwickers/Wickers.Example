@@ -1,0 +1,14 @@
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.csprojAssemblyReference.cache
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.csproj.CoreCompileInputs.cache
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.AssemblyInfoInputs.cache
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.AssemblyInfo.cs
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.pdb
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.deps.json
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.pdb
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.csproj.CopyComplete
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Business.pdb
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Business\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.pdb

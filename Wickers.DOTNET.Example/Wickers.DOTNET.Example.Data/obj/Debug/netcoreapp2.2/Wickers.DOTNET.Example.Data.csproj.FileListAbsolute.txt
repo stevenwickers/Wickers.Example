@@ -1,0 +1,12 @@
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.deps.json
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.pdb
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.pdb
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.csprojAssemblyReference.cache
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.csproj.CoreCompileInputs.cache
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.AssemblyInfoInputs.cache
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.AssemblyInfo.cs
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.csproj.CopyComplete
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Data\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Data.pdb

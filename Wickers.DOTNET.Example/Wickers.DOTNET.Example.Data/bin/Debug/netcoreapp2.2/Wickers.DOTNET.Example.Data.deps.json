@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Wickers.DOTNET.Example.Data/1.0.0": {
+        "dependencies": {
+          "Wickers.DOTNET.Example.Models": "1.0.0"
+        },
+        "runtime": {
+          "Wickers.DOTNET.Example.Data.dll": {}
+        }
+      },
+      "Wickers.DOTNET.Example.Models/1.0.0": {
+        "runtime": {
+          "Wickers.DOTNET.Example.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wickers.DOTNET.Example.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wickers.DOTNET.Example.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

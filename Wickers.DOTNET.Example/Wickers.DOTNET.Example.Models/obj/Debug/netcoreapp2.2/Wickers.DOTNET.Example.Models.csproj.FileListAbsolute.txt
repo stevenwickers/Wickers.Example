@@ -1,0 +1,8 @@
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Models\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.deps.json
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Models\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Models\bin\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.pdb
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Models\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.csproj.CoreCompileInputs.cache
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Models\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.AssemblyInfoInputs.cache
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Models\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.AssemblyInfo.cs
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Models\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.dll
+C:\Users\wickerss\source\sandbox\API\Wickers.DOTNET.Example\Wickers.DOTNET.Example\Wickers.DOTNET.Example.Models\obj\Debug\netcoreapp2.2\Wickers.DOTNET.Example.Models.pdb
